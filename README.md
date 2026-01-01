@@ -1,2 +1,2 @@
 # delta-demo
-the introduction to git and github
+the introduction to git and github.
